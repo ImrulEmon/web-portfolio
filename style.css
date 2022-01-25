@@ -88,3 +88,9 @@ footer{
     color: white;
     font-weight: bold;
 }
+
+#exp{
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 50px;
+}
