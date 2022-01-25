@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    
+    /*margin-left: 5%;*/
+}
+.name{
+    color: goldenrod;
+}
+h3{
+    /*margin-left: 5%;*/
+    text-align: justify;
+}
+p{
+    text-align: justify;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
